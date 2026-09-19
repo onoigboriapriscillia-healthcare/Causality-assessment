@@ -4,6 +4,7 @@ Drug-adverse reaction relationship can be evaluated using structured causality m
 1. What to assess in a case
 
 key factors:
+
 a. Temporal relationship; Did the reaction occur after the drug was started?
 
 b. Dechallenge; Did the reaction improve after stopping the drug?
@@ -35,7 +36,7 @@ g. Objective evidence; Are there laboratory, clinical, or diagnostic findings su
 
 *  Example case studies
 
-Case 1 � Certain
+Case 1 — Certain
 A patient takes Drug A. Two hours later, he develops generalized urticaria, facial swelling and difficulty breathing. Drug A is discontinued and the symptoms resolve. The patient is accidentally re-exposed to Drug A later and develops the same reaction.
 
 Assessment: Certain
@@ -47,7 +48,7 @@ Why:
 * Positive rechallenge
 * No more convincing alternative explanation
 
-* Case 2 � Probable
+* Case 2 — Probable
 A patient starts Drug B for hypertension. Five days later, they develop a persistent dry cough. Other causes are investigated and none are identified. Drug B is discontinued and the cough resolves within several days. The patient does not receive another exposure.
 
 Assessment: Probable/Likely
@@ -59,7 +60,7 @@ Why:
 * Positive dechallenge
 * No rechallenge, so the evidence is not as strong as Case 1
 
-* Case 3 � Possible
+* Case 3 — Possible
 A patient receiving Drug C develops nausea and abdominal discomfort two days later. However, the patient also has gastroenteritis and is taking two other medications that can cause gastrointestinal symptoms. The symptoms improve after several days.
 
 Assessment: Possible
@@ -74,10 +75,10 @@ Why:
 For the Naranjo scale, questions are answered and the points are added.
 
 Typical interpretation:
-* ?9: Definite
-* 5�8: Probable
-* 1�4: Possible
-* ?0: Doubtful
+* ≥9: Definite
+* 5–8: Probable
+* 1–4: Possible
+* ≤0: Doubtful
 
 The questions examine things such as:
 * Previous reports of the reaction
@@ -91,7 +92,7 @@ The questions examine things such as:
 
 A simple workflow for PV case studies
 
-Patient case?Identify suspected drug Identify ADR?Establish timeline? Check dechallenge?Check rechallenge?Look for alternative causes?Apply Naranjo/WHO-UMC?Document classification and rationale.
+Patient case → Identify suspected drug → Identify ADR → Establish timeline → Check dechallenge → Check rechallenge → Look for alternative causes → Apply Naranjo/WHO-UMC → Document classification and rationale.
 
 
 
