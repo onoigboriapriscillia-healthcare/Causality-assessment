@@ -48,7 +48,7 @@ Why:
 * Positive rechallenge
 * No more convincing alternative explanation
 
-* Case 2 — Probable
+ Case 2 — Probable
 A patient starts Drug B for hypertension. Five days later, they develop a persistent dry cough. Other causes are investigated and none are identified. Drug B is discontinued and the cough resolves within several days. The patient does not receive another exposure.
 
 Assessment: Probable/Likely
@@ -60,7 +60,7 @@ Why:
 * Positive dechallenge
 * No rechallenge, so the evidence is not as strong as Case 1
 
-* Case 3 — Possible
+ Case 3 — Possible
 A patient receiving Drug C develops nausea and abdominal discomfort two days later. However, the patient also has gastroenteritis and is taking two other medications that can cause gastrointestinal symptoms. The symptoms improve after several days.
 
 Assessment: Possible
