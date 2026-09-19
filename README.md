@@ -1,7 +1,7 @@
 # Causality-assessment
 Drug-adverse reaction relationship can be evaluated using structured causality methods such as the WHO-UMC system and Naranjo algorithm.
 
-1. What to assess in a case
+1. What to assess in a case:
 
 key factors:
 
@@ -20,7 +20,7 @@ f. Known association; Is the reaction already recognized for the drug?
 g. Objective evidence; Are there laboratory, clinical, or diagnostic findings supporting the reaction?
 
 
-2. WHO-UMC classification
+2. WHO-UMC classification:
 
 * Certain;  Strong,temporal relationship; plausible reaction, no reasonable alternative explanation, and usually a convincing dechallenge/rechallenge
 
@@ -37,6 +37,7 @@ g. Objective evidence; Are there laboratory, clinical, or diagnostic findings su
 *  Example case studies
 
 Case 1 — Certain
+
 A patient takes Drug A. Two hours later, he develops generalized urticaria, facial swelling and difficulty breathing. Drug A is discontinued and the symptoms resolve. The patient is accidentally re-exposed to Drug A later and develops the same reaction.
 
 Assessment: Certain
@@ -49,6 +50,7 @@ Why:
 * No more convincing alternative explanation
 
  Case 2 — Probable
+ 
 A patient starts Drug B for hypertension. Five days later, they develop a persistent dry cough. Other causes are investigated and none are identified. Drug B is discontinued and the cough resolves within several days. The patient does not receive another exposure.
 
 Assessment: Probable/Likely
@@ -61,6 +63,7 @@ Why:
 * No rechallenge, so the evidence is not as strong as Case 1
 
  Case 3 — Possible
+ 
 A patient receiving Drug C develops nausea and abdominal discomfort two days later. However, the patient also has gastroenteritis and is taking two other medications that can cause gastrointestinal symptoms. The symptoms improve after several days.
 
 Assessment: Possible
@@ -71,7 +74,8 @@ Why:
 * However, there are reasonable alternative explanations
 * Dechallenge is difficult to interpret because the other factors remain
 
-3. Naranjo algorithm
+3. Naranjo algorithm:
+   
 For the Naranjo scale, questions are answered and the points are added.
 
 Typical interpretation:
